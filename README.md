@@ -3,3 +3,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/)
 [![Medium Badge](https://img.shields.io/badge/follow%20on%20medium-black?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
 [![Kattis Badge](https://img.shields.io/badge/kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=Kattis)](https://open.kattis.com/countries/TUR)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/)
