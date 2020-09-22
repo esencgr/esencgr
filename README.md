@@ -14,7 +14,7 @@
 -   I have knowledge on **Software & Algorithm · Image and Video Processing · Embedded Software.**
 -   I'm developing my skills in **Python** and trending areas such as **Data Analysis · Computer Vision · Machine Learning.**
 -   I'm interested in **Algorithm Developer · Software Developer · Embedded Software Engineer · Computer Vision Engineer.**
--   **email** me @ **esencgr@gmail.com.**
+-   **Email : esencgr@gmail.com.**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
