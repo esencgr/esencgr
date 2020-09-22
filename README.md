@@ -4,10 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/) 
 [![Medium Badge](https://img.shields.io/badge/follow%20on%20medium-black?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
 [![Kattis Badge](https://img.shields.io/badge/My%20kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR) <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" width="141" height="26"/> 
+
 <!--
 <p align="CENTER"> 
    <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> 
 </p> -->
+
 -   I'm currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
 -   I’m currently working on **Python · C/C++ · Git · Linux**.
 -   I have knowledge on **Software & Algorithm · Image and Video Processing · Embedded Software.**
@@ -23,3 +25,5 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
 </p>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Projects)](https://github.com/esencgr/Python_Projects)
