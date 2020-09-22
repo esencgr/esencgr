@@ -7,16 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> </p> 
 
 -   Currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
-
 -   I’m currently working on **Python, C/C++, Git, Linux**.
-
 -   I have knowledge on **Software & Algorithm, Image and Video Processing, Embedded Software.**
-
 -   I'm developing my skills in **Python** and trending areas such as **Data Analysis, Computer Vision, Machine Learning.**
-
--   I'm interested in jobs of :: **Jr.Software Engineer**
-
--   How to reach me :: **email** me @ **esencgr@gmail.com.**
+-   I'm interested in **Jr.Software Engineer, Algorithm Developer, Computer Vision Engineer**
+-   **email** me @ **esencgr@gmail.com.**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
