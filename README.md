@@ -1,18 +1,10 @@
-
-<!--  
 [![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=esencgr&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/esncgr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esencgr&langs_count=9&hide=javascript,html,css,assembly&layout=compact&theme=tokyonight)](https://github.com/esencgr/github-readme-stats)   
 [![Linkedin Badge](https://img.shields.io/badge/follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/)
 [![Medium Badge](https://img.shields.io/badge/follow%20on%20medium-black?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
 [![Kattis Badge](https://img.shields.io/badge/My%20kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR)
--->
-<p align="center">
-<a href="https://github.com/esencgr/esencgr"><img src="https://raw.githubusercontent.com/esencgr/esencgr/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
-<a href="https://github.com/esencgr/esencgr"><img src="https://raw.githubusercontent.com/esencgr/esencgr/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
-<a href="https://github.com/esencgr/esencg"><img src="https://github.com/esencgr/github-stats/blob/master/generated/overview.svg" alt=""></a>
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> </p> 
 
 -   Currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
 
