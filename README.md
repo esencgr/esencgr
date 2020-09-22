@@ -8,7 +8,7 @@
 <p align="CENTER"> 
    <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> 
 </p> -->
--   Currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
+-   I'm currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
 -   I’m currently working on **Python · C/C++ · Git · Linux**.
 -   I have knowledge on **Software & Algorithm · Image and Video Processing · Embedded Software.**
 -   I'm developing my skills in **Python** and trending areas such as **Data Analysis · Computer Vision · Machine Learning.**
