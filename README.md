@@ -5,9 +5,11 @@
 [![Kattis Badge](https://img.shields.io/badge/My%20kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esencgr" alt="esencgr" /> </p>
 
+-   Currently #5 in Turkey on Kattis Programming Competition.Problem solving & algorithm development for various problems working on C and C++.
+
 -   I’m currently working on **Python, C/C++, Git, Linux**.
 
--   I have extensive knowledge on **Software & Algorithm, Signal, Image and Video Processing, Embedded Software.**
+-   I have extensive knowledge on **Software & Algorithm, Image and Video Processing, Embedded Software.**
 
 -   I'm developing my skills in **Python** and trending areas such as **Data Analysis, Computer Vision, Machine Learning.**
 
