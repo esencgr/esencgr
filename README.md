@@ -10,16 +10,17 @@
 </p> 
 
 -   Currently **#4 in Turkey** on Kattis ICPC Programming Competition. Problem Solving & Algorithm Development.
--   I’m currently working on **Python, C/C++, Git, Linux**.
--   I have knowledge on **Software & Algorithm, Image and Video Processing, Embedded Software.**
--   I'm developing my skills in **Python** and trending areas such as **Data Analysis, Computer Vision, Machine Learning.**
--   I'm interested in **Jr.Software Engineer, Algorithm Developer, Computer Vision Engineer**
+-   I’m currently working on **Python · C/C++ · Git · Linux**.
+-   I have knowledge on **Software & Algorithm · Image and Video Processing · Embedded Software.**
+-   I'm developing my skills in **Python** and trending areas such as **Data Analysis · Computer Vision · Machine Learning.**
+-   I'm interested in **Algorithm Developer · Software Developer · Embedded Software Engineer · Computer Vision Engineer.**
 -   **email** me @ **esencgr@gmail.com.**
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="55" height="55"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="40"/> 
 </p>
