@@ -25,5 +25,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
 </p>
-
+<!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Projects)](https://github.com/esencgr/Python_Projects)
+-->
