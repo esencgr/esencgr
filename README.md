@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/) 
 [![Medium Badge](https://img.shields.io/badge/follow%20on%20medium-black?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
 [![Kattis Badge](https://img.shields.io/badge/My%20kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR) 
+[![Email Badge](https://img.shields.io/badge/%20Email-red?style=for-the-badge&logo=kattis)](esencgr@gmail.com) 
 
 
 <!--
