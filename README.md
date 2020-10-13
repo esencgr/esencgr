@@ -31,4 +31,5 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Projects)](https://github.com/esencgr/Python_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
 
