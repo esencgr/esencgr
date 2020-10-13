@@ -30,6 +30,5 @@
 </p>
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Projects)](https://github.com/esencgr/Python_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 
