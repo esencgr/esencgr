@@ -35,5 +35,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects&about=v1)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Lınux_A_Z&about=v0)](https://github.com/esencgr/Linux_Dersleri)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Linux_Dersleri&about=v0)](https://github.com/esencgr/Linux_Dersleri)
 
