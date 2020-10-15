@@ -31,7 +31,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
 </p>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v2)](https://github.com/esencgr/Python_Basic_Data_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v2.1)](https://github.com/esencgr/Python_Basic_Data_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects&about=v1)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects&about=v1)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Introduction_to_Statistics&about=v0)](https://github.com/esencgr/Introduction_to_Statistics)
