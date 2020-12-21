@@ -5,7 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esencgr&langs_count=9&hide=javascript,html,css,assembly&layout=compact&theme=tokyonight)](https://github.com/esencgr/github-readme-stats)   
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/) 
 [![Medium Badge](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
-[![Kattis Badge](https://img.shields.io/badge/kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR) 
+[![Hackerrank Badge](https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/esencgr)
+[![Kattis Badge](https://img.shields.io/badge/kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=Kattis)](https://open.kattis.com/countries/TUR) 
 
 <!--
 <p align="CENTER"> 
