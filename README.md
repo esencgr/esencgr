@@ -22,6 +22,20 @@
 
 -   **Email : esencgr@gmail.com.**
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+   
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-esen-b0aa93109/" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10211612/%c3%87a%c4%9fr%c4%b1-esen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10211612/%c3%87a%c4%9fr%c4%b1-esen" height="30" width="40" /></a>
+   
+<a href="https://esencgr.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@esencgr" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/esencgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/esencgr" height="30" width="40" /></a>
+
+</p>
+
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="55" height="55"/> 
