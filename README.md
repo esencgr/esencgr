@@ -7,6 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-gray?style=for-the-badge&logo=Medium)](https://medium.com/cgresen)
 [![Hackerrank Badge](https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/esencgr)
 [![Kattis Badge](https://img.shields.io/badge/kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=Kattis)](https://open.kattis.com/countries/TUR) 
+[![Mail Badge](https://img.shields.io/badge/esencgr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:esencgr@gmail.com)](mailto:esencgr@gmail.com)
 
 <!--
 <p align="CENTER"> 
@@ -20,8 +21,6 @@
 -   I'm developing my skills in **Python** and trending areas such as **Data Analysis · Computer Vision · Machine Learning.**
 -   I'm interested in new jobs such as : **Algorithm Developer · Software Developer · Embedded Software Engineer · Computer Vision Engineer.**
 -->
-
--   **Email : esencgr@gmail.com.**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
