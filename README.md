@@ -67,20 +67,13 @@
 ## Know || Using :brain:
 
 <p align="center">
-   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-   <code><a href="https://isocpp.org/" target="_blank"><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a></code>
-   <code><a href="https://isocpp.org/" target="_blank"><img height="55" width="55" src="https://ih1.redbubble.net/image.416406974.0438/st,small,845x845-pad,1000x1000,f8f8f8.u4.jpg"></a></code>
-   <code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="50" src="https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png"></a></code>
-   <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
-   <br>
-   <code><a href="https://stackoverflow.com/" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
-   <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
-</p>
-
-## Ide, Editor :briefcase:
-<p align="center">     
-   <code><a href="https://code.visualstudio.com" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-   <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+      <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+      <code><a href="https://isocpp.org/" target="_blank"><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a></code>
+      <code><a href="https://isocpp.org/" target="_blank"><img height="55" width="55" src="https://ih1.redbubble.net/image.416406974.0438/st,small,845x845-pad,1000x1000,f8f8f8.u4.jpg"></a></code>
+      <code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="50" src="https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png"></a></code>
+      <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
+      <code><a href="https://stackoverflow.com/" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
+      <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 </p>
 
 ## Learning :computer:
@@ -90,6 +83,12 @@
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
       <code><a href="https://www.matplotlib.org/" target="_blank"><img height="55" width="115"  src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
  </p>
+ 
+ ## Ide, Editor :briefcase:
+<p align="center">     
+      <code><a href="https://code.visualstudio.com" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
+      <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+</p>
 
  <!--
 
