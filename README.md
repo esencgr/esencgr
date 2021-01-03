@@ -64,11 +64,11 @@
 </p>
 -->
 
-
+https://developers.redhat.com/blog/wp-content/uploads/2020/06/C_C_featuredimage.png
 ### Know || Using :brain:
 
 <p align="left">
-   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>	
+   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
    <code><img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50"/></code>
    <code><img alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="50" height="50"/></code>
    <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
@@ -79,11 +79,12 @@
    <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
  </p>
 
+<!--
 ### Learning :computer:
-
 <p align="left">     
       <code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code>  
       <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
+      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
       <code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
       <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
@@ -91,8 +92,7 @@
       <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
       <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 </p>
-
-<code><a href="https://www.matplotlib.org/" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
+-->
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v1)](https://github.com/esencgr/Python_Basic_Data_Projects)
