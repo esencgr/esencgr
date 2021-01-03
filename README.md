@@ -66,7 +66,7 @@
 
 ## Know || Using :brain:
 
-<p align="left">
+<p align="center">
    <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
    <code><a href="https://isocpp.org/" target="_blank"><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a></code>
    <code><a href="https://isocpp.org/" target="_blank"><img height="55" width="55" src="https://ih1.redbubble.net/image.416406974.0438/st,small,845x845-pad,1000x1000,f8f8f8.u4.jpg"></a></code>
@@ -78,12 +78,13 @@
 </p>
 
 ## Ide, Editor :briefcase:
-   <code><a href="https://code.visualstudio.com" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>   </code> 
+<p align="center">     
+   <code><a href="https://code.visualstudio.com" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
    <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+</p>
 
-
-### Learning :computer:
-<p align="left">     
+## Learning :computer:
+<p align="center">     
       <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
       <code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code>  
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
