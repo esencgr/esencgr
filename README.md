@@ -23,7 +23,7 @@
 <!--
       ### I’m currently working on Python, Linux, Fedora, OpenCv, PyQt, PySide, Qt, QML, SQL, Pandas, Matplotlib, Seaborn, PLotly
        <p align="left">
-       <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
+      <img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
       <img  alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40">
       <img  alt="fedoralinux" src="https://avatars3.githubusercontent.com/u/38725477?s=200&v=4" width="40" height="40" />
       <img alt="opencv" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"  width="40" height="40"/> 
@@ -66,12 +66,13 @@
 
 
 ### Know || Using :brain:
+
 <p align="left">
    <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>	
    <code><img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50"/></code>
    <code><img alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="50" height="50"/></code>
    <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
-
+<br>
    <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>   </code> 
    <code><a href="https://stackoverflow.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
    <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
@@ -80,7 +81,18 @@
 
 ### Learning :computer:
 
+<p align="left">     
+      <code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code>  
+      <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
+      <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+      <code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
+      <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+      <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
+      <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+      <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+</p>
 
+<code><a href="https://www.matplotlib.org/" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v1)](https://github.com/esencgr/Python_Basic_Data_Projects)
