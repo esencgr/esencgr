@@ -63,33 +63,36 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
 </p>
 -->
+https://www.pngitem.com/pimgs/m/355-3559358_c-and-c-logo-hd-png-download.png
 
-https://developers.redhat.com/blog/wp-content/uploads/2020/06/C_C_featuredimage.png
 ### Know || Using :brain:
 
 <p align="left">
    <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-   <code><img alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="50" height="50"/></code>
-   <code><img alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="50" height="50"/></code>
+   <code><a href="https://isocpp.org/" target="_blank"><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a></code>
+   <code><a href="https://isocpp.org/" target="_blank"><img height="55" width="55" src="https://ih1.redbubble.net/image.416406974.0438/st,small,845x845-pad,1000x1000,f8f8f8.u4.jpg"></a></code>
+   <code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="50" src="https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png"></a></code>
    <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
-<br>
-   <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>   </code> 
+   <br>
    <code><a href="https://stackoverflow.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
    <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
+</p>
+
+### Ide, Editor :briefcase:
+   <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>   </code> 
    <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
- </p>
 
 <!--
 ### Learning :computer:
 <p align="left">     
+      <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
       <code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code>  
-      <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
-      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
+      <code><a href="https://www.numpy.org/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
       <code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
       <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
       <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
-      <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
       <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 </p>
 -->
