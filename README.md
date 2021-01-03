@@ -32,6 +32,7 @@
       <code><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7adI9nP8nwhZsmyuU5tfqI7-oE7py077LQ&usqp=CAU"></a></code>
       <code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="55" width="115"src="https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png"></a></code>
       <code><a href="https://git-scm.com/" target="_blank"><img height="50" width="100" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
+      <br>
       <code><a href="https://stackoverflow.com/" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
       <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 </p>
