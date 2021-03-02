@@ -40,10 +40,11 @@
 
 ## Learning :computer:
 <p align="center">     
-      <code><a href="https://www.opencv.org/" target="_blank"><img height="55" width="110" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+    <!--  <code><a href="https://www.opencv.org/" target="_blank"><img height="55" width="110" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code> -->
       <code><a href="https://www.selenium.dev/" target="_blank"><img height="30" width="115"src="https://www.selenium.dev/images/selenium_logo_large.png"></a></code>  
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="55" width="115"  src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>
+      <!--
+      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="55" width="115"  src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>-->
  </p>
  
  ## Ide, Editor :briefcase:
