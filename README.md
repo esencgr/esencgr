@@ -62,7 +62,9 @@
       <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
       <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 -->
+<!--
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+-->
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v1)](https://github.com/esencgr/Python_Basic_Data_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects&about=v1)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
