@@ -47,27 +47,36 @@
       <code><a href="https://www.matplotlib.org/" target="_blank"><img height="55" width="115"  src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>-->
  </p>
  
+ 
  ## Ide, Editor :briefcase:
 <p align="center">     
       <code><a href="https://code.visualstudio.com" target="_blank"><img height="70" width ="135" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
       <code><a href="https://www.jupyter.org/" target="_blank"><img height="65" width ="130" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-
 </p>
 
- <!--
 
+ <!--
       <code><a href="https://www.numpy.org/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
       <code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
       <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
       <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
       <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 -->
+
+
 <!--
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 -->
 
+<!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&about=v1)](https://github.com/esencgr/Python_Basic_Data_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects&about=v1)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects&about=v1)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Introduction_to_Statistics&about=v0)](https://github.com/esencgr/Introduction_to_Statistics)
+-->
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects)](https://github.com/esencgr/Python_Basic_Data_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Object_Oriented_Programming)](https://github.com/esencgr/Python_Object_Oriented_Programming)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 
