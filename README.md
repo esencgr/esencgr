@@ -75,7 +75,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Introduction_to_Statistics&about=v0)](https://github.com/esencgr/Introduction_to_Statistics)
 -->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Basic_Data_Projects&v:1)](https://github.com/esencgr/Python_Basic_Data_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Scripts_Projects&v:1)](https://github.com/esencgr/Python_Scripts_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Object_Oriented_Programming)](https://github.com/esencgr/Python_Object_Oriented_Programming)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects&v:1)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
