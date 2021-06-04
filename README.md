@@ -34,8 +34,8 @@
       <code><a href="https://git-scm.com/" target="_blank"><img height="50" width="100" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
       <br>
       <code><a href="https://stackoverflow.com/" target="_blank"><img height="55" width ="115" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
-      <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
-</p>
+<!--       <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
+</p> -->
 
 
 ## Learning :computer:
