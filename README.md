@@ -42,11 +42,6 @@
       <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
       <code><a href="https://www.java.com/tr/" target="_blank"><img height="55" width="117"src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
       <code><a href="https://spring.io/" target="_blank"><img height="55" width="117"src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-
-<!--       <code><a href="https://www.java.com/en/" target="_blank"><img height="30" width="115"src="https://www.selenium.dev/images/selenium_logo_large.png"></a></code>   -->      
-      <!--
-      <code><a href="https://www.matplotlib.org/" target="_blank"><img height="55" width="115"  src="https://matplotlib.org/_static/logo2_compressed.svg"></a></code>-->
-      
  </p>
  
  
