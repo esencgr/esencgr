@@ -23,7 +23,7 @@
 -->
 
 
-## Know || Using :brain:
+## Know || Using
 
 <p align="center">
       <code><a href="https://www.python.org/" target="_blank"><img height="55" width="115"src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -35,7 +35,7 @@
 
 
 
-## Learning :computer:
+## Learning
 <p align="center">    
     <!--  <code><a href="https://www.opencv.org/" target="_blank"><img height="55" width="110" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code> -->
 <!--       <code><a href="https://www.selenium.dev/" target="_blank"><img height="30" width="115"src="https://www.selenium.dev/images/selenium_logo_large.png"></a></code>   -->
@@ -71,7 +71,7 @@
 </p>
 
  -->
- ## Ide, Editor :briefcase:
+ ## Ide, Editor
 <p align="center">     
       <code><a href="https://code.visualstudio.com" target="_blank"><img height="70" width ="135" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
       <code><a href="https://www.jupyter.org/" target="_blank"><img height="65" width ="130" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
