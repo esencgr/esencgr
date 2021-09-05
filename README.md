@@ -74,7 +74,8 @@
  ## Ide, Editor
 <p align="center">     
       <code><a href="https://code.visualstudio.com" target="_blank"><img height="70" width ="135" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-      <code><a href="https://www.jupyter.org/" target="_blank"><img height="65" width ="130" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+      <code><a href="https://www.jupyter.org/" target="_blank"><img height="65" width ="130" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>  
+      <code><a href="https://intellij-support.jetbrains.com" target="_blank"><img height="65" width ="130" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></a></code>
 </p>
 
 
