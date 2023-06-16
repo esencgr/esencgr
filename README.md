@@ -2,7 +2,7 @@
       [![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=esencgr&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/esncgr/github-readme-stats)-->
 
 
-[![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=esencgr&show_icons=true&theme=tokyonight)](https://github.com/esncgr/github-readme-stats)
+[![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=esencgr&show_icons=true&theme=tokyonight)](https://github.com/esencgr/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esencgr&langs_count=9&hide=javascript,html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)](https://github.com/esencgr/github-readme-stats)   
