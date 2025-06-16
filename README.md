@@ -102,7 +102,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Scripts_Projects&v:1)](https://github.com/esencgr/Python_Scripts_Projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Poll_Application&v:2)](https://github.com/esencgr/Poll_Application)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Cpp_Arduino_Basics_and_Projects&v:1)](https://github.com/esencgr/Cpp_Arduino_Basics_and_Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Programming_Contest_Solutions&v:1)](https://github.com/esencgr/Programming_Contest_Solutions)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Python_Data_Structures_Algorithms)](https://github.com/esencgr/Python_Data_Structures_Algorithms)
 <!--[![](https://github-readme-stats.vercel.app/api/pin/?username=esencgr&repo=Matlab_Image_Processing_Projects)](https://github.com/esencgr/Matlab_Image_Processing_Projects)
 -->
