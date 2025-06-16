@@ -29,7 +29,7 @@
       <code><a href="https://www.python.org/" target="_blank"><img height="55" width="115"src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
       <code><a href="https://isocpp.org/" target="_blank"><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a></code>
       <code><a href="https://isocpp.org/" target="_blank"><img height="55" width="55" src="https://ih1.redbubble.net/image.416406974.0438/st,small,845x845-pad,1000x1000,f8f8f8.u4.jpg"></a></code> 
-      <code><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7adI9nP8nwhZsmyuU5tfqI7-oE7py077LQ&usqp=CAU"></a></code>
+      <code><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="50" src="https://seekvectorlogo.net/mathworks-vector-logo-svg/"></a></code>
       <code><a href="https://www.linuxfoundation.org/" target="_blank"><img height="55" width="115"src="https://afraaltayer.files.wordpress.com/2014/03/logo-linux.png"></a></code> 
       <code><a href="https://git-scm.com/" target="_blank"><img height="50" width="100" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>   
 
